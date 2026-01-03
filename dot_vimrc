@@ -1,0 +1,24 @@
+set nocompatible
+set number
+set relativenumber
+set showcmd
+set showmode
+set ruler
+set wildmenu
+set mouse=a
+
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set autoindent
+set smartindent
+
+set ignorecase
+set smartcase
+set incsearch
+set hlsearch
+
+set cursorline
+set scrolloff=8
+set signcolumn=yes
+syntax on
