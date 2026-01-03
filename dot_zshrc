@@ -19,3 +19,5 @@ setopt HIST_REDUCE_BLANKS
 setopt HIST_VERIFY
 setopt EXTENDED_HISTORY
 
+source <(fzf --zsh)
+
