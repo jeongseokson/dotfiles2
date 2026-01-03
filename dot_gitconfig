@@ -1,0 +1,7 @@
+[user]
+	name = Jeongseok Son
+	email = jeongseok.son@gmail.com
+[init]
+	defaultBranch = main
+[fetch]
+	prune = true
